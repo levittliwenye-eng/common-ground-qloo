@@ -2,7 +2,7 @@
 
 A two-person movie decision tool with a browser walkthrough and a stateless HTTP MCP endpoint. AI agents developed this prototype under the participant’s direction to explore the Qloo Agentic Hackathon.
 
-**The hosted demo is public. On 2026-10-09, its anonymous browser walkthrough completed real Qloo title searches and returned three shared picks from a pool of 20 movies. Authenticated live MCP calls also passed. The event key remains a server secret.** Devpost enrollment is complete; final entry submission is still pending. See [INTEGRATION-STATUS.md](INTEGRATION-STATUS.md) for verification and eligibility limitations.
+**The hosted demo is public. On 2026-10-09, its anonymous browser walkthrough completed real Qloo title searches and returned three shared picks from a pool of 20 movies. Authenticated live MCP calls also passed. The event key remains a server secret.** The project was formally submitted on 2026-10-09: [Devpost entry](https://devpost.com/software/common-ground-movie-night-for-two). Submission does not confirm eligibility or an award. See [INTEGRATION-STATUS.md](INTEGRATION-STATUS.md) for verification and eligibility limitations.
 
 ## Judge walkthrough
 
