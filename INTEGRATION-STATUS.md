@@ -53,3 +53,8 @@ Live mode stays unavailable when no key is configured. Sample results never coun
 - MCP HTTP transport: https://modelcontextprotocol.io/specification/2025-03-26/basic/transports
 
 The official Qloo starter uses a local stdio process. This prototype instead calls the HTTP API from a Worker and exposes its own HTTP MCP endpoint. This deployment route has not been endorsed or tested by Qloo.
+
+
+## Public release verification — 2026-10-09 13:40 Beijing
+
+The account owner authorized public MIT source, the public demo, agreement acceptance and submission. Devpost registration completed. The hosted demo is public with environment revision 2 (`PUBLIC_DEMO=true`); the Qloo credential remains a masked server secret. Anonymous browser use resolved Arrival (2016) and Before Sunrise (1995) and returned three shared picks from a pool of 20 movies. MCP authentication is retained. The MIT source repository is public at https://github.com/levittliwenye-eng/common-ground-qloo. Final entry creation is awaiting the image CAPTCHA; the entry has not yet been submitted. Earlier private-only and pending-publication descriptions above are historical preparation snapshots. Organizer confirmation of the disclosed AI involvement remains outstanding.

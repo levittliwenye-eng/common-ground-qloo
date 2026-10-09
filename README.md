@@ -2,11 +2,11 @@
 
 A two-person movie decision tool with a browser walkthrough and a stateless HTTP MCP endpoint. AI agents developed this prototype under the participant’s direction to explore the Qloo Agentic Hackathon.
 
-**The personal event key is configured as a server secret. Real search and the complete recommendation workflow passed both a direct client check and authenticated MCP calls on the private deployment on 2026-10-09. This is not a submitted entry.** See [INTEGRATION-STATUS.md](INTEGRATION-STATUS.md) for the verification snapshot and remaining entry requirements.
+**The hosted demo is public. On 2026-10-09, its anonymous browser walkthrough completed real Qloo title searches and returned three shared picks from a pool of 20 movies. Authenticated live MCP calls also passed. The event key remains a server secret.** Devpost enrollment is complete; final entry submission is still pending. See [INTEGRATION-STATUS.md](INTEGRATION-STATUS.md) for verification and eligibility limitations.
 
 ## Judge walkthrough
 
-Open [the hosted demo](https://common-ground-oct2026.almondash.chatgpt.site/), select **Live Qloo**, search **Arrival** for Person 1 and choose the 2016 movie, then search **Before Sunrise** for Person 2 and choose the 1995 movie. Select **Find shared picks** to compare each person's relative rank. These are test inputs, not claimed participant preferences. Public access must be explicitly enabled before the entry is submitted.
+Open [the hosted demo](https://common-ground-oct2026.almondash.chatgpt.site/), select **Live Qloo**, search **Arrival** for Person 1 and choose the 2016 movie, then search **Before Sunrise** for Person 2 and choose the 1995 movie. Select **Find shared picks** to compare each person's relative rank. These are test inputs, not claimed participant preferences. Public browser access is enabled on the hosted demo.
 
 For agent use, connect the hosted `/mcp` endpoint and sign in with ChatGPT. Resolve titles with `resolve_movie`, confirm ambiguous matches, then call `find_common_ground` with the chosen IDs and `mode: live`.
 
@@ -78,6 +78,6 @@ Tests cover compromise ranking, missing evidence, identical candidate pools, exc
 
 ## Data and license
 
-Preferences and results stay in browser memory and are cleared by reload. Live mode sends selected entity IDs and ranking requests to Qloo. There is no app database, analytics or account system. Sites provides access control for the current private preview.
+Preferences and results stay in browser memory and are cleared by reload. Live mode sends selected entity IDs and ranking requests to Qloo. There is no app database, analytics or account system. The hosted browser demo is public; Sites provides sign-in for MCP tool calls.
 
 Application code is MIT licensed. Bundled starter components and installed dependencies retain their own licenses; included vendor/build license notices are preserved. Movie titles in the sample are examples; the app includes no posters, clips or copied descriptions.
