@@ -1,6 +1,6 @@
 # Integration status — submission preparation on 2026-10-09
 
-This is an AI-developed prototype for the Qloo Agentic Hackathon, not a submitted entry.
+This AI-developed prototype was formally submitted to the Qloo Agentic Hackathon on 2026-10-09. [View the entry](https://devpost.com/software/common-ground-movie-night-for-two). Organizer eligibility review and results remain pending. The preparation sections below are historical snapshots.
 
 ## Verified locally
 
@@ -58,3 +58,8 @@ The official Qloo starter uses a local stdio process. This prototype instead cal
 ## Public release verification — 2026-10-09 13:40 Beijing
 
 The account owner authorized public MIT source, the public demo, agreement acceptance and submission. Devpost registration completed. The hosted demo is public with environment revision 2 (`PUBLIC_DEMO=true`); the Qloo credential remains a masked server secret. Anonymous browser use resolved Arrival (2016) and Before Sunrise (1995) and returned three shared picks from a pool of 20 movies. MCP authentication is retained. The MIT source repository is public at https://github.com/levittliwenye-eng/common-ground-qloo. Final entry creation is awaiting the image CAPTCHA; the entry has not yet been submitted. Earlier private-only and pending-publication descriptions above are historical preparation snapshots. Organizer confirmation of the disclosed AI involvement remains outstanding.
+
+
+## Formal submission — 2026-10-09 18:00 Beijing
+
+The user completed the image CAPTCHA. Devpost accepted the final entry and displayed “Project submitted!” plus “Submitted to Qloo Agentic Hackathon”. The public project is https://devpost.com/software/common-ground-movie-night-for-two (submission 1226570, software 1472267). It includes the live demo, public MIT source, six technology tags, a real-run screenshot and thumbnail, testing instructions, full AI disclosure and an accurate statement of the account owner's contribution. The event rules and Devpost terms were accepted under the account owner's explicit authorization. No payment was made. Formal submission does not establish organizer eligibility, a prize or income.
